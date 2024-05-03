@@ -24,6 +24,8 @@ public class CalculatorDemo1 {
 
 
         System.out.println(Calculator.PI);
+        System.out.println(Calculator.PI);
+
 
     }
 }
